@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+This is Cafe Git. An organization that acts as a test bed for learning a little bit of everything!
+Currently we're focusing on learning:
+
+- R
+- Git
+- GitHub
+
+
 <!--
 
 **Here are some ideas to get you started:**
